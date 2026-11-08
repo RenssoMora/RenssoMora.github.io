@@ -1,9 +1,28 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"VISAPP":
+  url: https://visapp.scitevents.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICINCO":
+  url: https://icinco.scitevents.org/
+  color: "#6f42c1"
 
-"Vision":
+"SIBGRAPI":
+  url: https://sibgrapi.sbc.org.br/
   color: "#009f36"
+
+"IJCB":
+  color: "#b31b1b"
+
+"TCSVT":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76
+  color: "#00629b"
+
+"ISBI":
+  url: https://biomedicalimaging.org/
+  color: "#d97706"
+
+"CCIS":
+  color: "#555555"
+
+"CIARP":
+  color: "#555555"
