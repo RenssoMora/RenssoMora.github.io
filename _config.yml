@@ -7,15 +7,15 @@ first_name: Rensso
 middle_name: Victor Hugo
 last_name: Mora Colque
 contact_note: >
-  La mejor forma de contactarme es por correo electrónico: rmora@utec.edu.pe
+  The best way to reach me is by email: rmora@utec.edu.pe
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Página personal de Rensso Mora Colque, profesor e investigador en Visión por Computador y Machine Learning en la Universidad de Ingeniería y Tecnología (UTEC), Lima-Perú.
+  Personal website of Rensso Mora Colque, professor and researcher in Computer Vision and Machine Learning at Universidad de Ingeniería y Tecnología (UTEC), Lima, Peru.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Rensso Mora Colque, visión por computador, computer vision, machine learning, deep learning, video surveillance, anomaly detection, UTEC # add your own keywords or leave empty
-lang: es # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 👁️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+keywords: Rensso Mora Colque, computer vision, machine learning, deep learning, video surveillance, anomaly detection, UTEC # add your own keywords or leave empty
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 #url: https://alshedivat.github.io # the base hostname & protocol for your site
@@ -140,7 +140,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Rensso Mora Colque # blog_name will be displayed in your blog page
-blog_description: notas y publicaciones
+blog_description: notes and posts
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

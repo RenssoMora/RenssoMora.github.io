@@ -1,11 +1,11 @@
 cv:
   name: Rensso Victor Hugo Mora Colque
-  label: Profesor e investigador en Visión por Computador y Machine Learning
+  label: Professor and researcher in Computer Vision and Machine Learning
   email: rmora@utec.edu.pe
-  location: Lima, Perú
+  location: Lima, Peru
   website: https://sites.google.com/view/renssomora
   image: ""
-  summary: Doctor en Ciencia de la Computación por la Universidade Federal de Minas Gerais (UFMG, Brasil). Profesor en la Universidad de Ingeniería y Tecnología (UTEC), Lima-Perú. Investigación en visión por computador, machine learning, análisis de video de vigilancia y detección de eventos anómalos.
+  summary: Ph.D. in Computer Science from Universidade Federal de Minas Gerais (UFMG, Brazil). Professor at Universidad de Ingeniería y Tecnología (UTEC), Lima, Peru. Research in computer vision, machine learning, surveillance video analysis and anomalous event detection.
 
   social_networks:
     - network: GitHub
@@ -16,144 +16,144 @@ cv:
   sections:
     Education:
       - institution: Universidade Federal de Minas Gerais (UFMG)
-        location: Belo Horizonte, Brasil
-        area: Ciência da Computação
+        location: Belo Horizonte, Brazil
+        area: Computer Science
         studyType: Ph.D.
         start_date: 2014
         end_date: 2018
 
       - institution: Universidade Federal de Ouro Preto (UFOP)
-        location: Ouro Preto, Brasil
-        area: Ciência da Computação
+        location: Ouro Preto, Brazil
+        area: Computer Science
         studyType: M.Sc.
         start_date: 2010
         end_date: 2012
 
       - institution: Universidad Católica San Pablo (UCSP)
-        location: Arequipa, Perú
-        area: Ingeniería Informática
-        studyType: Ingeniero
+        location: Arequipa, Peru
+        area: Computer Engineering
+        studyType: B.Eng.
         start_date: 2001
         end_date: 2006
         highlights:
-          - Parte del quinto superior durante el pregrado.
+          - Graduated in the top fifth of the class.
 
     Experience:
       - company: Universidad de Ingeniería y Tecnología (UTEC)
-        position: Profesor
-        location: Lima, Perú
+        position: Professor
+        location: Lima, Peru
         start_date: 2023
         end_date: present
         highlights:
-          - "Profesor principal de los cursos: Introducción a la Programación, Proyecto Final de Carrera I, II y III, Machine Learning, Análisis Computacional de Datos."
-          - Profesor asesor de tesis de maestría en Ciencia de Datos y Ciencia de la Computación.
-          - "Profesor de diplomados: Machine Learning, Python."
+          - "Lead instructor for: Introduction to Programming, Capstone Project I, II and III, Machine Learning, Computational Data Analysis."
+          - Master's thesis advisor in Data Science and Computer Science.
+          - "Instructor in diploma programs: Machine Learning, Python."
           - Jurado de tesis de pregrado y posgrado.
 
       - company: Universidad Católica San Pablo (UCSP)
-        position: Profesor
-        location: Arequipa, Perú
+        position: Professor
+        location: Arequipa, Peru
         start_date: 2018
         end_date: 2022
         highlights:
-          - "Profesor principal de los cursos: Análisis y Diseño de Algoritmos, Proyecto Final de Carrera I, II y III, Programación Competitiva."
-          - Profesor asesor de tesis de maestría (2018-2022).
-          - "Profesor de diplomados: Visión por Computador, Machine Learning, Ciencia de Datos (2018-2022)."
-          - Profesor de posgrado del curso Visión por Computador (2019).
-          - Coordinador del diplomado en Visión por Computador (2021-2022).
-          - Coordinador del posgrado del Departamento de Ciencia de la Computación (2022).
-          - Profesor coordinador del Capítulo Estudiantil ACM (2022).
+          - "Lead instructor for: Design and Analysis of Algorithms, Capstone Project I, II and III, Competitive Programming."
+          - Master's thesis advisor (2018-2022).
+          - "Instructor in diploma programs: Computer Vision, Machine Learning, Data Science (2018-2022)."
+          - Graduate course instructor: Computer Vision (2019).
+          - Coordinator of the Computer Vision diploma program (2021-2022).
+          - Graduate program coordinator, Computer Science Department (2022).
+          - Faculty coordinator of the ACM Student Chapter (2022).
           - Jurado de tesis de pregrado y posgrado.
 
       - company: Universidad Católica San Pablo (UCSP)
-        position: Profesor
-        location: Arequipa, Perú
+        position: Professor
+        location: Arequipa, Peru
         start_date: 2012
         end_date: 2014
         highlights:
-          - Profesor de laboratorio del curso Estructura de Datos Avanzados.
-          - Profesor principal del curso Análisis y Diseño de Algoritmos.
+          - Lab instructor for Advanced Data Structures.
+          - Lead instructor for Design and Analysis of Algorithms.
 
     Projects:
-      - name: "[Posdoctorado] V2IP: Videomonitoramento para Identificação de Pessoas e Veículos"
-        summary: Universidade Federal do Paraná (UFPR) - Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, Brasil.
+      - name: "[Postdoc] V2IP: Videomonitoramento para Identificação de Pessoas e Veículos (Video Surveillance for People and Vehicle Identification)"
+        summary: Universidade Federal do Paraná (UFPR) - Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, Brazil.
         start_date: 2024
         end_date: 2024
 
-      - name: Reconhecimento de Atividades baseado em Informação Contextual (LG Brasil)
-        summary: Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, Brasil.
+      - name: Reconhecimento de Atividades baseado em Informação Contextual (Activity Recognition based on Contextual Information), LG Brazil
+        summary: Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, Brazil.
         start_date: 2016
         end_date: 2017
 
     Awards:
-      - title: Profesor Destacado en el Posgrado UTEC
+      - title: Outstanding Professor, UTEC Graduate School
         date: 2026
         awarder: Universidad de Ingeniería y Tecnología (UTEC)
 
-      - title: Profesor Destacado en el curso Proyecto Final de Carrera, Pregrado UTEC
+      - title: Outstanding Professor, Capstone Project course, UTEC Undergraduate
         date: 2025
         awarder: Universidad de Ingeniería y Tecnología (UTEC)
 
-      - title: Primer lugar en la tarea de reconocimiento de rostros, 3rd Open-set Face Detection and Identification Challenge
+      - title: First place in the face recognition task, 3rd Open-set Face Detection and Identification Challenge
         date: 2024
         awarder: IEEE International Joint Conference on Biometrics (IJCB 2024)
         url: https://www.ifi.uzh.ch/en/aiml/challenge.html
 
-      - title: Segundo puesto en el concurso de tesis de maestría (Workshop of Theses and Dissertations)
+      - title: Second place in the master's thesis contest (Workshop of Theses and Dissertations)
         date: 2013
         awarder: SIBGRAPI 2013 - Conference on Graphics, Patterns and Images
         url: https://www.ucsp.edu.pe/sibgrapi2013/workshop_of_theses_and_dissertations.html
 
-    Orientación de Tesis:
-      - bullet: "Diciembre 2024: **Optimización de la Detección de Violencia en Videos de Vigilancia mediante Estrategias de Preprocesamiento basado en Personas y Destilación de Conocimiento entre Arquitecturas Profundas: Un Enfoque hacia la Generalización entre Conjuntos de Datos**. Dan Joshua Santivañez Gutarra. Tesis de Maestría, Universidad de Ingeniería y Tecnología (UTEC)."
+    Thesis Supervision:
+      - bullet: "December 2024: **Optimización de la Detección de Violencia en Videos de Vigilancia mediante Estrategias de Preprocesamiento basado en Personas y Destilación de Conocimiento entre Arquitecturas Profundas: Un Enfoque hacia la Generalización entre Conjuntos de Datos**. Dan Joshua Santivañez Gutarra. Master's thesis, Universidad de Ingeniería y Tecnología (UTEC)."
 
-      - bullet: "Setiembre 2023: **Priority sampling and visual attention for self-driving car**. Victor Flores Benites. Tesis de Maestría, Universidad Católica San Pablo (UCSP)."
+      - bullet: "September 2023: **Priority sampling and visual attention for self-driving car**. Victor Flores Benites. Master's thesis, Universidad Católica San Pablo (UCSP)."
 
-      - bullet: "Febrero 2023: **Foreground Detection using Attention modules and a Video encoding**. Anthony Benavidez Arce. Tesis de Licenciatura, Universidad Católica San Pablo (UCSP)."
+      - bullet: "February 2023: **Foreground Detection using Attention modules and a Video encoding**. Anthony Benavidez Arce. Undergraduate thesis, Universidad Católica San Pablo (UCSP)."
 
-      - bullet: "Mayo 2022: **Unsupervised anomaly detection in 2D radiographs using generative models**. Laura Estacio Cerquin. Tesis de Maestría, Universidad Católica San Pablo (UCSP)."
+      - bullet: "May 2022: **Unsupervised anomaly detection in 2D radiographs using generative models**. Laura Estacio Cerquin. Master's thesis, Universidad Católica San Pablo (UCSP)."
 
-      - bullet: "Abril 2021: **Ambient Lighting Generation for Flash Images with Guided Conditional Adversarial Networks**. Jose Chavez Alvarez. Tesis de Maestría, Universidad Católica San Pablo (UCSP). Coorientador."
+      - bullet: "April 2021: **Ambient Lighting Generation for Flash Images with Guided Conditional Adversarial Networks**. Jose Chavez Alvarez. Master's thesis, Universidad Católica San Pablo (UCSP). Co-advisor."
 
-      - bullet: "Diciembre 2020: **Estimación de la incertidumbre en redes neuronales profundas**. Jose Hugo Jaita Aguilar. Tesis de Maestría, Universidad Católica San Pablo (UCSP)."
+      - bullet: "December 2020: **Estimación de la incertidumbre en redes neuronales profundas**. Jose Hugo Jaita Aguilar. Master's thesis, Universidad Católica San Pablo (UCSP)."
 
-      - bullet: "Marzo 2019: **Surveillance video summarization based on trajectory rarity measure**. Gerar Quispe Torres. Tesis de Maestría, Universidad Católica San Pablo (UCSP)."
+      - bullet: "March 2019: **Surveillance video summarization based on trajectory rarity measure**. Gerar Quispe Torres. Master's thesis, Universidad Católica San Pablo (UCSP)."
 
-    Revisor y Organización de Eventos:
-      - label: Revisor (conferencias)
+    Reviewing and Event Organization:
+      - label: Reviewer (conferences)
         details: SIBGRAPI (2021), SIBGRAPI (2024), WACV (2025)
 
-      - label: Revisor (journal)
+      - label: Reviewer (journals)
         details: IEEE Open Access
 
-      - label: Organización (conferencias)
-        details: SIBGRAPI 2013 (Comité Local), SIBGRAPI 2021 (International Program Committee)
+      - label: Organization (conferences)
+        details: SIBGRAPI 2013 (Local Committee), SIBGRAPI 2021 (International Program Committee)
 
-      - label: Organización (workshops)
-        details: Simposio de Computación Gráfica e Imágenes (SCGI)
+      - label: Organization (workshops)
+        details: Symposium on Computer Graphics and Images (SCGI)
 
     Skills:
-      - name: Programación (experto)
+      - name: Programming (expert)
         icon: fa-solid fa-code
         keywords: "C/C++, Python"
 
-      - name: Programación (avanzado)
+      - name: Programming (advanced)
         icon: fa-solid fa-code
         keywords: "MATLAB, R, TeX/LaTeX"
 
-      - name: Programación (intermedio)
+      - name: Programming (intermediate)
         icon: fa-solid fa-code
         keywords: "Kotlin, HTML, PHP, Java"
 
     Languages:
-      - name: Español
-        summary: "Lengua nativa"
+      - name: Spanish
+        summary: "Native"
 
-      - name: Portugués
-        summary: "Lee, conversa y escribe (fluido)"
+      - name: Portuguese
+        summary: "Fluent (reading, speaking, writing)"
 
-      - name: Inglés
-        summary: "Lee, conversa y escribe"
+      - name: English
+        summary: "Reading, speaking, writing"
 
-      - name: Francés
-        summary: "Lee"
+      - name: French
+        summary: "Reading"

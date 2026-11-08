@@ -1,14 +1,14 @@
 ---
 layout: page
 title: V2IP
-description: Videomonitoramento para Identificação de Pessoas e Veículos (posdoctorado, 2024)
+description: Video Surveillance for People and Vehicle Identification (postdoc, 2024)
 importance: 1
-category: investigación
+category: research
 related_publications: false
 ---
 
-- **Proyecto:** _V2IP: Videomonitoramento para Identificação de Pessoas e Veículos_
-- **Instituciones:** Universidade Federal do Paraná (UFPR) – Universidade Federal de Minas Gerais (UFMG), Belo Horizonte-Brasil
-- **Periodo:** 2024 (posdoctorado)
+- **Project:** _V2IP: Videomonitoramento para Identificação de Pessoas e Veículos_ (Video Surveillance for People and Vehicle Identification)
+- **Institutions:** Universidade Federal do Paraná (UFPR) – Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, Brazil
+- **Period:** 2024 (postdoctoral research)
 
-Proyecto de investigación en videomonitoramiento orientado a la identificación de personas y vehículos en videos de vigilancia. En el marco de este trabajo participamos en el _3rd Open-set Face Detection and Identification Challenge_ (IJCB 2024), obteniendo el **primer lugar** en la tarea de reconocimiento de rostros.
+Research project on video surveillance for identifying people and vehicles in surveillance footage. As part of this work, we took part in the _3rd Open-set Face Detection and Identification Challenge_ (IJCB 2024) and won **first place** in the face recognition task.

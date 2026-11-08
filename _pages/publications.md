@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publicaciones
-description: artículos científicos publicados, en orden cronológico inverso.
+title: publications
+description: published papers in reverse chronological order.
 nav: true
 nav_order: 2
 ---

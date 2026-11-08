@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dos artículos publicados en **VISAPP 2026**: _A Simple and Lightweight Model for Person Re-Identification_ y _Efficient Multi-Temporal Building Change Detection with Reduced-Rank Linear Attention_.
+Two papers published at **VISAPP 2026**: _A Simple and Lightweight Model for Person Re-Identification_ and _Efficient Multi-Temporal Building Change Detection with Reduced-Rank Linear Attention_.

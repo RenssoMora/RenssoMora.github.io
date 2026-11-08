@@ -1,11 +1,11 @@
 ---
 layout: page
-title: proyectos
+title: projects
 permalink: /projects/
-description: proyectos de investigación en los que he participado.
+description: research projects I have been involved in.
 nav: true
 nav_order: 3
-display_categories: [investigación]
+display_categories: [research]
 horizontal: false
 ---
 

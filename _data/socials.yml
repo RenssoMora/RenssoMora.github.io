@@ -1,13 +1,10 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/CV_Rensso_Mora.pdf # path to your CV PDF file
-email: rmora@utec.edu.pe # your email address
 orcid_id: 0000-0003-4734-8752 # your ORCID ID
-github_username: RenssoMora # your GitHub user name
-# scholar_userid: # your Google Scholar ID (also used by bin/update_scholar_citations.py)
+scopus_id: 56991183600 # your Scopus author ID
+dina: # CTI Vitae (formerly DINA) profile, CONCYTEC Peru
+  logo: /assets/img/dina_icon.png # can be png, svg, jpg
+  title: CTI Vitae (DINA)
+  url: https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=0017432
 rss_icon: false # comment this line to hide the RSS icon
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.gstatic.com/images/branding/product/1x/sites_48dp.png # can be png, svg, jpg
-  title: Google Sites
-  url: https://sites.google.com/view/renssomora

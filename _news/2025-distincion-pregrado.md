@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Recibí la distinción de **Profesor Destacado** en el curso Proyecto Final de Carrera, Pregrado UTEC 2025.
+Received the **Outstanding Professor** award for the Capstone Project course, UTEC Undergraduate 2025.

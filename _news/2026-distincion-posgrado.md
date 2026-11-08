@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Recibí la distinción de **Profesor Destacado en el Posgrado UTEC 2026**. :tada:
+Received the **Outstanding Professor award, UTEC Graduate School 2026**. :tada:

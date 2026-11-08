@@ -1,16 +1,16 @@
 ---
 layout: about
-title: sobre mí
+title: about
 permalink: /
-subtitle: Profesor en la <a href='https://www.utec.edu.pe/'>Universidad de Ingeniería y Tecnología (UTEC)</a>, Lima-Perú. Visión por Computador y Machine Learning.
+subtitle: Professor at <a href='https://www.utec.edu.pe/'>Universidad de Ingeniería y Tecnología (UTEC)</a>, Lima, Peru. Computer Vision and Machine Learning.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: rensso.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Universidad de Ingeniería y Tecnología (UTEC)</p>
-    <p>Barranco, Lima-Perú</p>
+    <p>Barranco, Lima, Peru</p>
     <p>rmora@utec.edu.pe</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,18 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Soy profesor e investigador en la **Universidad de Ingeniería y Tecnología (UTEC)** en Lima, Perú, donde dicto cursos de Introducción a la Programación, Machine Learning, Análisis Computacional de Datos y Proyecto Final de Carrera, y asesoro tesis de maestría en Ciencia de Datos y Ciencia de la Computación.
+I am a professor and researcher at **Universidad de Ingeniería y Tecnología (UTEC)** in Lima, Peru, where I teach Introduction to Programming, Machine Learning, Computational Data Analysis and Capstone Project courses, and advise master's theses in Data Science and Computer Science.
 
-Obtuve el título de **Ingeniero Informático** en la Universidad Católica San Pablo (UCSP, Arequipa-Perú), la **Maestría en Ciencia de la Computación** en la Universidade Federal de Ouro Preto (UFOP, Brasil) y el **Doctorado (Ph.D.) en Ciencia de la Computación** en la Universidade Federal de Minas Gerais (UFMG, Brasil). En 2024 realicé un posdoctorado en el proyecto _V2IP: Videomonitoramento para Identificação de Pessoas e Veículos_ (UFPR–UFMG).
+I received my **B.Eng. in Computer Engineering** from Universidad Católica San Pablo (UCSP, Arequipa, Peru), my **M.Sc. in Computer Science** from Universidade Federal de Ouro Preto (UFOP, Brazil), and my **Ph.D. in Computer Science** from Universidade Federal de Minas Gerais (UFMG, Brazil). In 2024 I was a postdoctoral researcher in the project _V2IP: Video Surveillance for People and Vehicle Identification_ (UFPR–UFMG).
 
-Mi investigación se centra en **visión por computador** y **machine learning**, en particular:
+My research focuses on **computer vision** and **machine learning**, in particular:
 
-- detección de eventos anómalos y análisis de videos de vigilancia,
-- detección y reconocimiento de personas, rostros y vehículos (re-identificación, open-set face recognition),
-- detección y clasificación de objetos en movimiento,
-- modelos profundos eficientes y mecanismos de atención,
-- análisis de imágenes médicas y de datos.
+- anomalous event detection and surveillance video analysis,
+- person, face and vehicle detection and recognition (re-identification, open-set face recognition),
+- moving object detection and classification,
+- efficient deep models and attention mechanisms,
+- medical image analysis and data analysis.
 
-Entre 2012–2014 y 2018–2022 fui profesor en la UCSP, donde además coordiné el diplomado en Visión por Computador, el posgrado del Departamento de Ciencia de la Computación y el Capítulo Estudiantil ACM. Con mi equipo obtuvimos el **primer lugar** en la tarea de reconocimiento de rostros del _3rd Open-set Face Detection and Identification Challenge_ (IJCB 2024).
+From 2012–2014 and 2018–2022 I was a professor at UCSP, where I also coordinated the Computer Vision diploma program, the graduate program of the Computer Science Department, and the ACM Student Chapter. With my team, we won **first place** in the face recognition task of the _3rd Open-set Face Detection and Identification Challenge_ (IJCB 2024).
 
-Revisa mis [publicaciones]({{ '/publications/' | relative_url }}) y mi [CV]({{ '/cv/' | relative_url }}) para más detalles.
+See my [publications]({{ '/publications/' | relative_url }}) and [teaching]({{ '/teaching/' | relative_url }}) pages for more details.

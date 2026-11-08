@@ -1,45 +1,45 @@
 ---
 layout: page
 permalink: /teaching/
-title: docencia
-description: cursos dictados y orientación de tesis.
+title: teaching
+description: courses taught and thesis supervision.
 nav: true
 nav_order: 6
 ---
 
-## Universidad de Ingeniería y Tecnología (UTEC), Lima-Perú — 2023-actualidad
+## Universidad de Ingeniería y Tecnología (UTEC), Lima, Peru — 2023-present
 
-- Profesor principal de los cursos: Introducción a la Programación, Proyecto Final de Carrera I, II y III, Machine Learning y Análisis Computacional de Datos.
-- Profesor asesor de tesis de maestría en Ciencia de Datos y Ciencia de la Computación.
-- Profesor de diplomados: Machine Learning y Python.
-- Jurado de tesis de pregrado y posgrado.
-- Distinción _Profesor Destacado_ en el curso Proyecto Final de Carrera, Pregrado UTEC (2025).
-- Distinción _Profesor Destacado_ en el Posgrado UTEC (2026).
+- Lead instructor for: Introduction to Programming, Capstone Project I, II and III, Machine Learning, and Computational Data Analysis.
+- Master's thesis advisor in Data Science and Computer Science.
+- Instructor in diploma programs: Machine Learning and Python.
+- Undergraduate and graduate thesis committee member.
+- _Outstanding Professor_ award in the Capstone Project course, UTEC Undergraduate (2025).
+- _Outstanding Professor_ award, UTEC Graduate School (2026).
 
-## Universidad Católica San Pablo (UCSP), Arequipa-Perú — 2018-2022
+## Universidad Católica San Pablo (UCSP), Arequipa, Peru — 2018-2022
 
-- Profesor principal de los cursos: Análisis y Diseño de Algoritmos, Proyecto Final de Carrera I, II y III, y Programación Competitiva.
-- Profesor asesor de tesis de maestría (2018-2022).
-- Profesor de diplomados: Visión por Computador, Machine Learning y Ciencia de Datos (2018-2022).
-- Profesor de posgrado del curso Visión por Computador (2019).
-- Coordinador del diplomado en Visión por Computador (2021-2022).
-- Coordinador del posgrado del Departamento de Ciencia de la Computación (2022).
-- Profesor coordinador del Capítulo Estudiantil ACM (2022).
-- Jurado de tesis de pregrado y posgrado.
+- Lead instructor for: Design and Analysis of Algorithms, Capstone Project I, II and III, and Competitive Programming.
+- Master's thesis advisor (2018-2022).
+- Instructor in diploma programs: Computer Vision, Machine Learning and Data Science (2018-2022).
+- Graduate course instructor: Computer Vision (2019).
+- Coordinator of the Computer Vision diploma program (2021-2022).
+- Graduate program coordinator, Computer Science Department (2022).
+- Faculty coordinator of the ACM Student Chapter (2022).
+- Undergraduate and graduate thesis committee member.
 
-## Universidad Católica San Pablo (UCSP), Arequipa-Perú — 2012-2014
+## Universidad Católica San Pablo (UCSP), Arequipa, Peru — 2012-2014
 
-- Profesor de laboratorio del curso Estructura de Datos Avanzados.
-- Profesor principal del curso Análisis y Diseño de Algoritmos.
+- Lab instructor for Advanced Data Structures.
+- Lead instructor for Design and Analysis of Algorithms.
 
 ---
 
-## Orientación de tesis de pregrado y posgrado
+## Thesis supervision
 
-- **Diciembre 2024** — _Optimización de la Detección de Violencia en Videos de Vigilancia mediante Estrategias de Preprocesamiento basado en Personas y Destilación de Conocimiento entre Arquitecturas Profundas: Un Enfoque hacia la Generalización entre Conjuntos de Datos_. Dan Joshua Santivañez Gutarra. Tesis de Maestría, UTEC.
-- **Setiembre 2023** — _Priority sampling and visual attention for self-driving car_. Victor Flores Benites. Tesis de Maestría, UCSP.
-- **Febrero 2023** — _Foreground Detection using Attention modules and a Video encoding_. Anthony Benavidez Arce. Tesis de Licenciatura, UCSP.
-- **Mayo 2022** — _Unsupervised anomaly detection in 2D radiographs using generative models_. Laura Estacio Cerquin. Tesis de Maestría, UCSP.
-- **Abril 2021** — _Ambient Lighting Generation for Flash Images with Guided Conditional Adversarial Networks_. Jose Chavez Alvarez. Tesis de Maestría, UCSP (coorientador).
-- **Diciembre 2020** — _Estimación de la incertidumbre en redes neuronales profundas_. Jose Hugo Jaita Aguilar. Tesis de Maestría, UCSP.
-- **Marzo 2019** — _Surveillance video summarization based on trajectory rarity measure_. Gerar Quispe Torres. Tesis de Maestría, UCSP.
+- **December 2024** — _Optimización de la Detección de Violencia en Videos de Vigilancia mediante Estrategias de Preprocesamiento basado en Personas y Destilación de Conocimiento entre Arquitecturas Profundas: Un Enfoque hacia la Generalización entre Conjuntos de Datos_. Dan Joshua Santivañez Gutarra. Master's thesis, UTEC.
+- **September 2023** — _Priority sampling and visual attention for self-driving car_. Victor Flores Benites. Master's thesis, UCSP.
+- **February 2023** — _Foreground Detection using Attention modules and a Video encoding_. Anthony Benavidez Arce. Undergraduate thesis, UCSP.
+- **May 2022** — _Unsupervised anomaly detection in 2D radiographs using generative models_. Laura Estacio Cerquin. Master's thesis, UCSP.
+- **April 2021** — _Ambient Lighting Generation for Flash Images with Guided Conditional Adversarial Networks_. Jose Chavez Alvarez. Master's thesis, UCSP (co-advisor).
+- **December 2020** — _Estimación de la incertidumbre en redes neuronales profundas_. Jose Hugo Jaita Aguilar. Master's thesis, UCSP.
+- **March 2019** — _Surveillance video summarization based on trajectory rarity measure_. Gerar Quispe Torres. Master's thesis, UCSP.
